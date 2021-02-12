@@ -4,8 +4,8 @@
 The aim of the project is to use the CRISP-DM reference model to determine if a country of residence can be used to predict whether a developer is more likely work from home
 
 ## Table of contents
-####Introduction
-####Understanding the data
+* Introduction
+* Understanding the data
 ####Cleaning and preparing the data
 ####Question 1
 ####Question 2
