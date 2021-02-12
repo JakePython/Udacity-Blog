@@ -18,6 +18,7 @@ This project is .
 ## Technologies
 Project is created with:
 * Python 3.6
+* Pandas
 
 ## Recognition
 Cover picture https://getflyp.com/
