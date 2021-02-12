@@ -18,9 +18,9 @@ Project is created with:
 * Pandas
 
 ## Recognition
-Cover picture https://getflyp.com/
-Udacity Data Science Course
+* Cover picture https://getflyp.com/
+* Udacity Data Science Course
 
 ## Source
-Stackoverflow
-Udacity Data Science Course
+* Stackoverflow
+* Udacity Data Science Course
