@@ -5,12 +5,19 @@ The aim of the project is to use the CRISP-DM reference model to determine if a 
 
 ## Table of contents
 * Introduction
-* Understanding the data
-* Cleaning and preparing the data
 * Question 1
+* Business Understanding
+* Data Preparation: cleaning and construction
+* Evaluating and visualizing results
 * Question 2
+* Business Understanding
+* Data Preparation: cleaning and construction
+* Evaluating and visualizing results
 * Question 3
-* Evaluation
+* Business Understanding
+* Data Preparation: cleaning and construction
+* Evaluating and visualizing results
+* Final Evaluation
 
 ## Technologies
 Project is created with:
